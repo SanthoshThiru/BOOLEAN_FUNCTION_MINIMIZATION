@@ -25,11 +25,13 @@ Boolean Algebra is a branch of algebra that deals with boolean values-true and f
 ![alt text](image.png)
 
 2.F2
+
 ![alt text](image-1.png)
 
 **Boolean Function Minimization**
 
 1.F1
+
 ![alt text](image-2.png)
 
 
@@ -53,6 +55,7 @@ Boolean Algebra is a branch of algebra that deals with boolean values-true and f
 **Program:**
 
 1.F1
+
 ```verilog
 module function1(a,b,c,d,fun1);
 input a,b,c,d;
@@ -62,6 +65,7 @@ endmodule
 ```
 
 2.F2
+
 ```verilog
 module function2(w,x,y,z,fun2);
 intput w,x,y,z;
@@ -76,16 +80,21 @@ Register Number : 212223220100
 **RTL**
 
 1.F1
+
 ![alt text](image-4.png)
 
 2.F2
 
 ![alt text](image-6.png)
+
 **Timing Diagram**
+
 1.F1
+
 ![alt text](image-8.png)
 
 2.F2
+
 ![alt text](image-7.png)
 
 **Result:**
