@@ -53,7 +53,7 @@ Boolean Algebra is a branch of algebra that deals with boolean values-true and f
 **Program:**
 
 1.F1
-```
+```verilog
 module function1(a,b,c,d,fun1);
 input a,b,c,d;
 output fun1;
@@ -62,7 +62,7 @@ endmodule
 ```
 
 2.F2
-```
+```verilog
 module function2(w,x,y,z,fun2);
 intput w,x,y,z;
 output fun2;
